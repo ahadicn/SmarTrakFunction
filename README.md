@@ -1,2 +1,2 @@
-# SmarTrakWebAPI
-SmarTrakWebAPI
+# SmarTrakFunction
+SmarTrakFunction
